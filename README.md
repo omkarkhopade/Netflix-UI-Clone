@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 A responsive Netflix landing page UI clone built using HTML, CSS. This project replicates the look and feel of Netflix’s homepage with modern design, smooth layout, and interactive elements.
 
 Tech Stack :
@@ -30,6 +30,3 @@ CSS media queries ensure responsiveness across devices
 📄 License
 
 This project is for educational purposes only and is not affiliated with Netflix.
-=======
-
->>>>>>> 219afb1a9385e02dfb0858f775e49bec65f28ae3
