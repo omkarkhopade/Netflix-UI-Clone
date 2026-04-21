@@ -29,4 +29,4 @@ CSS media queries ensure responsiveness across devices
 
 📄 License
 
-This project is for educational purposes only and it is not affiliated with Netflix.
+This project is for educational purposes only and is not affiliated with Netflix.
